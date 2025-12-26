@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "e2bfe86c1abc0079",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce92ce38fbe5e4aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a95668126a33fc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Flowcharts/BubbleSort.png"
+              },
+              "icon": "lucide-image",
+              "title": "BubbleSort"
+            }
+          },
+          {
+            "id": "576bcfeb1e7e65bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLI/Файловая структура.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Файловая структура"
+            }
+          },
+          {
+            "id": "1c1204130e2d4dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLI/FHS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FHS"
+            }
+          },
+          {
+            "id": "870e7f72a453841d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLI/Чтение файлов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Чтение файлов"
+            }
+          },
+          {
+            "id": "6156d4674b8d9f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLI/GREP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GREP"
+            }
+          },
+          {
+            "id": "6c51fb2a204ef70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLI/Редактирование файлов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Редактирование файлов"
+            }
+          },
+          {
+            "id": "2b6e2dedfda1d558",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CLI/Images/Pasted image 20251226094159.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251226094159"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55c384736078b76c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7cdb93b860edec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd54aeb2405cb42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "03e4a3edd2e60a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c91552e2f052d97c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "3917c2b2cbf8f054",
+    "type": "split",
+    "children": [
+      {
+        "id": "cad840c660209ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4ec5aa60485bd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CLI/Манипулирование файловой системой.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Манипулирование файловой системой"
+            }
+          },
+          {
+            "id": "9c9ba5404963e9b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CLI/Манипулирование файловой системой.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Манипулирование файловой системой"
+            }
+          },
+          {
+            "id": "c31549a00bff52d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7aacd5edc4bb993b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c51ac069629f66dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLI/Манипулирование файловой системой.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Манипулирование файловой системой"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2cd54aeb2405cb42",
+  "lastOpenFiles": [
+    "CLI/Пользователи и группы.md",
+    "CLI/Images/Pasted image 20251226123026.png",
+    "CLI/Images",
+    "CLI/Images/Pasted image 20251226150752.png",
+    "CLI/Images/Pasted image 20251226150503.png",
+    "CLI/Манипулирование файловой системой.md",
+    "CLI/Чтение файлов.md",
+    "CLI/Пайплайн.md",
+    "CLI/Потоки.md",
+    "result",
+    "CLI/Images/Pasted image 20251226115859.png",
+    "CLI/Images/Pasted image 20251226094159.png",
+    "CLI/Файловая структура.md",
+    "CLI/echo",
+    "CLI/result",
+    "CLI/Редактирование файлов.md",
+    "CLI/hello",
+    "CLI/hello.txt",
+    "CLI/Hello.txt",
+    "CLI/GREP.md",
+    "CLI/FHS.md",
+    "Flowcharts/BubbleSort.png",
+    "Flowcharts/1.9.jpg",
+    "Flowcharts/1.2.jpg"
+  ]
+}
